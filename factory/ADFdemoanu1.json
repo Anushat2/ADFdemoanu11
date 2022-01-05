@@ -1,0 +1,9 @@
+{
+	"name": "ADFdemoanu1",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9aed3cf6-b7f7-4d0d-877d-2ed2b1a307ca",
+		"tenantId": "5b973f99-77df-4beb-b27d-aa0c70b8482c"
+	}
+}
